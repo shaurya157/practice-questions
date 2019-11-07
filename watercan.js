@@ -1,3 +1,5 @@
+//https://leetcode.com/discuss/interview-question/394347/
+
 var solution = (plants, capactiy1, capactiy2) => {
   if(plants.length == 0) return 0;
   refill = 2;

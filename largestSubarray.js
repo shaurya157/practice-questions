@@ -1,3 +1,5 @@
+//https://leetcode.com/discuss/interview-question/352459/
+
 var solution = function(arr, k){
   length = arr.length;
   if(k == length) return arr;
