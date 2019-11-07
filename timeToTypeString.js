@@ -1,3 +1,5 @@
+//https://leetcode.com/discuss/interview-question/356477
+
 var solution = (string) => {
   index = 97; //Char code of 'a'
   result = 0;
